@@ -1,5 +1,9 @@
 # EDA-Para-UVa-Decrypt
 
+[![forthebadge](http://forthebadge.com/images/badges/winter-is-coming.svg)](https://github.com/Rsilnav/EDA-Para-UVa-Decrypt)
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-swag.svg)](https://github.com/Rsilnav/EDA-Para-UVa-Decrypt)
+
 ## Installation
 - Download as a zip
 - Extract to your desired folder
