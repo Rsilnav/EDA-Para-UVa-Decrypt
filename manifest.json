@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
 
-  "name": "EDA-UVa Decrypt",
+  "name": "EDA-Para-UVa-Decrypt",
   "description": " I can show you the world. Shining, shimmering, splendid. -- rafsill",
   "version": "1.0",
 
